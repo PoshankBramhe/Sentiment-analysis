@@ -21,7 +21,7 @@ from nltk.corpus import cmudict<br>
 import spacy<br>
 import re<br><br><br>
 
-Define the URL you want to analyze.<br><br>
+Define the URL you want to analyze.<br>
 
 Use the provided functions to extract various linguistic features and metrics:<br>
 
